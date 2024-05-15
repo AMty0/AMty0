@@ -2,7 +2,7 @@
 ### Hello people 👏
 ---
 Hello my name is Matheus mucedola (or AMty), i am from Brazil and i study programming
-C# and java scrip 
+C# and java script
 
 
 ---

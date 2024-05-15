@@ -49,3 +49,11 @@ C# and java scrip
 [![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amty_lost/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AMty_lost)
 [![linkidin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mucedola-8064b4309/)
+
+
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/AMty0/count.svg?"  />
+</div>
+
+###

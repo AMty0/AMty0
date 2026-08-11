@@ -1,7 +1,7 @@
 
 ### Hello people 👏
 ---
-Hello my name is Matheus Mucedola (or AMty), i am from Brazil and i study programming
+Hello my name is Matheus Mucedola, i am from Brazil and i study programming
 C++ 
 
 
